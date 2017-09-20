@@ -5,9 +5,9 @@
     android:weightSum="1">
 
     <TextView
-        android:id="@+id/expandedListItem"
+        android:id="@+id/listTitle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_weight="0.11"
+        android:layout_weight="0.08"
         android:text="TextView" />
 </LinearLayout>
